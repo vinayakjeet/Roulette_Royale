@@ -2,7 +2,6 @@
 
 Roulette Royale is an exciting casino-style roulette simulation game written in C++. It offers a realistic gambling experience by simulating a roulette wheel and allowing users to bet on the outcome of each spin. This project is designed to be both educational and entertaining, providing insights into basic game development, C++ programming, and simple probability concepts.
 
-![Roulette Wheel](https://64.media.tumblr.com/20b66ebac93e16b057f1a511fa5d7a67/tumblr_nczxu2cJOB1txeruoo2_r1_500.gifv)
 
 ## Features
 
